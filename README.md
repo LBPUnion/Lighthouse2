@@ -1,6 +1,6 @@
 # Project Lighthouse 2
 
-Project Lighthouse 2 is an open-source, community-centered, next generation custom server for LittleBigPlanet. This project is maintained by the LBP Union Ministry of Technology Research and Development team. 
+Project Lighthouse 2 is an open-source, community-centered, next generation custom server for LittleBigPlanet. Development of Lighthouse 2 is centered in the community, and anyone can contribute to the project. This repository is maintained by the LBP Union Ministry of Technology Research and Development team. 
 
 ## Disclaimers
 
