@@ -1,7 +1,7 @@
-using Lighthouse2.Attributes;
+using LBPUnion.Lighthouse2.Attributes;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Lighthouse2.Controllers;
+namespace LBPUnion.Lighthouse2.Controllers;
 
 [ApiController]
 [GameRoute("login")]

@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace Lighthouse2.Attributes;
+namespace LBPUnion.Lighthouse2.Attributes;
 
 public class GameRouteAttribute : RouteAttribute
 {
